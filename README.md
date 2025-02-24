@@ -2,7 +2,7 @@
 
 Bu repoda, farklı dostlarımın paylaştığı çeşitli Discord botlarını bulabilirsiniz. Her bir bot, farklı ihtiyaçlara yönelik olarak geliştirilmiştir. Katkılarından dolayı dostlarıma teşekkür ederim! 💙
 
-Kuramazsanız https://dicord.gg/vsc beklerim ben ve yetkili arkadaşlarım özenle yardım edicektir :)
+Kuramazsanız https://discord.gg/vsc beklerim ben ve yetkili arkadaşlarım özenle yardım edicektir :)
 ## 📌 İçerik
 
 ### 1️⃣ Cyr0nix - Public Botları

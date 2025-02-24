@@ -1,0 +1,17 @@
+{
+  "name": "sorbi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "WraithsDev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "findcord": "^2.0.9",
+    "moment": "^2.30.1"
+  }
+}

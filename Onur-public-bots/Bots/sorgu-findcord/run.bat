@@ -1,0 +1,3 @@
+:x
+node .
+goto x

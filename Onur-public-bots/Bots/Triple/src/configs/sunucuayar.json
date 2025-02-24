@@ -1,0 +1,124 @@
+{
+    "staffs": [
+        "1293930816912625685"
+    ],
+    "erkekRolleri": [
+        "1229208416476467271"
+    ],
+    "kizRolleri": [
+        "1229208415008460854"
+    ],
+    "unregRoles": [
+        "1229208420897394850"
+    ],
+    "yetkiRolleri": [
+        "1229208393294676100",
+        "1331337221734924358"
+    ],
+    "teyitciRolleri": [
+        "1229208393294676100"
+    ],
+    "ekipRolu": "1293930804258279527",
+    "sahipRolu": [
+        "1269294438354784381"
+    ],
+    "boosterRolu": "825704358330892359",
+    "warnHammer": [
+        "1331338411763830945"
+    ],
+    "banHammer": [
+        "1331338444470747259"
+    ],
+    "jailHammer": [
+        "1331355507545473144"
+    ],
+    "cmuteHammer": [
+        "1331338481024368733"
+    ],
+    "vmuteHammer": [
+        "1331338494232100905"
+    ],
+    "tag": "✵",
+    "ikinciTag": "",
+    "etiket": "",
+    "jailRole": [
+        "1331338464125255861"
+    ],
+    "chatMute": [
+        "1331337911244951603"
+    ],
+    "voiceMute": [
+        "1331338373859639388"
+    ],
+    "fakeAccRole": [
+        "1331338324455063672"
+    ],
+    "rolverici": [
+        "1331337357533905028"
+    ],
+    "chatChannel": "1212501831381688340",
+    "teyitKanali": "1293931082126983238",
+    "invLogChannel": "1293931079194906658",
+    "banLogChannel": "1340781047364718643",
+    "jailLogChannel": "1340781148728725525",
+    "cmuteLogChannel": "1340781249308004353",
+    "vmuteLogChannel": "1340781249308004353",
+    "warnLogChannel": "",
+    "kurallar": "1331338961276112916",
+    "KomutKullanımKanalİsim": [
+        "yetkili-bot-command",
+        "🤖・bot-komut"
+    ],
+    "cezapuanlog": "1340781382888325211",
+    "vipRole": "1331337530045501471",
+    "müzisyenRole": "",
+    "tasarımcıRole": "1331337562479919135",
+    "streamerRole": "",
+    "sorunçözücüRole": "1331337607476416602",
+    "publicParents": "Parentler yani kategoriler",
+    "registerParents": [
+        "1331339415062315008"
+    ],
+    "solvingParents": [
+        "1331339508029067395"
+    ],
+    "privateParents": [
+        ""
+    ],
+    "aloneParents": [
+        "1331339546591236097"
+    ],
+    "funParents": [
+        "1330972594605654120"
+    ],
+    "serverUrl": "",
+    "Katıldı": "1331337374587949106",
+    "yasaklıRole": [
+        "1331337870576980153"
+    ],
+    "doomRole": [
+        "1331338324455063672"
+    ],
+    "doomLogChannel": "",
+    "secretroomParent": "özel oda kategorisi",
+    "terapistRole": "1331337589881307187",
+    "ChatLevel1": "Chat Rolleri",
+    "ChatLevel2": "",
+    "ChatLevel3": "",
+    "ChatLevel4": "",
+    "VoiceLevel1": "",
+    "VoiceLevel2": "",
+    "VoiceLevel3": "",
+    "VoiceLevel4": "",
+    "LevelUpChannelName": "level-bilgilendirme",
+    "boosterLog": "booster log kanal idsi",
+    "basvuruDurum": "yetkilibaşvuru onaylandıktan yada reddedildikten sonra gidecek bilgilendirme mesajı",
+    "streamerDurum": "yetkilibaşvuru onaylandıktan yada reddedildikten sonra gidecek bilgilendirme mesajı",
+    "HammermiSpearmi": "hammer mi yoksa spear mi siz seçiyonuz",
+    "premium": "premium rolü zımbırtısı fazla kasmadım",
+    "onlyFans": [
+        "sadece foto gönderilecek kanal idleri"
+    ],
+    "canlıdestekRol": "1331337607476416602",
+    "yetkilialımRol": "1331337404858237079"
+}

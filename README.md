@@ -25,6 +25,7 @@ Bu bot, **Findcord** üzerinden çalışan bir **global sorgu sistemi** sunar. K
 Bu bot, **self token kullanarak botları ses kanallarında aktif tutar** ve sürekli çevrimiçi olmalarını sağlar. Özellikle belirli botların sürekli çalışmasını sağlamak için kullanışlıdır.
 
 ---
+## Not Ücretli Kurulum Kesinlikle yasaktır aksi taktirde işlem uygulanacaktır
 
 💙 **Kodları paylaşan dostlarıma teşekkür ederim!**  
 📌 Bu repo, farklı projeler için kullanılabilir ve geliştirilebilir.  

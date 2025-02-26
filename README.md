@@ -18,10 +18,15 @@ Bu bot, Discord sunucularınızı yönetmek ve korumak için geniş kapsamlı bi
 - 🎉 **Welcome:** Yeni üyeleri karşılayan karşılama mesajları.  
 
 ### 2️⃣ Wraiths - Global Sorgu Botu  
-![Sorgu Botu Görseli](![image](https://github.com/user-attachments/assets/2c8a49ac-4d3b-4e0e-8612-403c854fe938)
+
+<details>
+  <summary>Sorgu Komutları</summary>
+  
+(![image](https://github.com/user-attachments/assets/2c8a49ac-4d3b-4e0e-8612-403c854fe938)
 ![image](https://github.com/user-attachments/assets/1e1171de-2937-4b29-9587-ba727439b05d)
 ![image](https://github.com/user-attachments/assets/368c2a84-4bea-4ff1-afc2-7c4afa24dbfa)
-)  
+
+
 **Teşekkürler:** [Wraiths](https://www.youtube.com/@WraithsDev)  
 Bu bot, **Findcord** üzerinden çalışan bir **global sorgu sistemi** sunar. Kullanıcı bilgilerini detaylı şekilde sorgulamak için kullanılabilir.  
 

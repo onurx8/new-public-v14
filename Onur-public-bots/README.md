@@ -17,7 +17,7 @@ Bu bot, Discord sunucularınızı yönetmek ve korumak için geniş kapsamlı bi
 Bu bot, **Findcord** üzerinden çalışan bir **global sorgu sistemi** sunar. Kullanıcı bilgilerini detaylı şekilde sorgulamak için kullanılabilir.
 
 ### 3️⃣ Marcell - Self Token Botu  
-**Teşekkürler:** [Marcell](https://github.com/marcell-dev)  
+**Teşekkürler:** [Marcell](https://github.com/marcell91)  
 Bu bot, **self token kullanarak botları ses kanallarında aktif tutar** ve sürekli çevrimiçi olmalarını sağlar. Özellikle belirli botların sürekli çalışmasını sağlamak için kullanışlıdır.
 
 ---

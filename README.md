@@ -65,6 +65,5 @@ Bu bot, **self token kullanarak botları ses kanallarında aktif tutar** ve sür
 ![image](https://github.com/user-attachments/assets/6836761c-6547-4321-a1b5-6d4442311069)
 ![image](https://github.com/user-attachments/assets/a78b3163-a44c-4b17-b03b-7683363d3c30)
 
-</details>
 
 

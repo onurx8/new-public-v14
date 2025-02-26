@@ -47,9 +47,8 @@ Bu bot, **self token kullanarak botları ses kanallarında aktif tutar** ve sür
 ![image](https://github.com/user-attachments/assets/4e8cab04-a107-4c6a-8157-2dfa0bb66d58)
 ![image](https://github.com/user-attachments/assets/094b2351-b389-4a97-86b3-0b16a74c51dd)
 
+</details>
 
-
-  
 <details>
   <summary>Sorgu Komutları</summary>
 
@@ -58,12 +57,14 @@ Bu bot, **self token kullanarak botları ses kanallarında aktif tutar** ve sür
   ![image](https://github.com/user-attachments/assets/368c2a84-4bea-4ff1-afc2-7c4afa24dbfa) 
 
 <details>
+
+  </details>
   <summary>SelfToken Komutları</summary>
 
 ![image](https://github.com/user-attachments/assets/2cd16077-cb23-4ffc-ad6d-4c1af9145f89)
 ![image](https://github.com/user-attachments/assets/6836761c-6547-4321-a1b5-6d4442311069)
 ![image](https://github.com/user-attachments/assets/a78b3163-a44c-4b17-b03b-7683363d3c30)
 
-
+</details>
 
 
